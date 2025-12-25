@@ -8,13 +8,13 @@ An interactive business intelligence dashboard built using Power BI to analyze s
 ### 📊 Dashboard Preview
 
 #### Executive Summary
-![Executive Summary](dashboard_summary.png)
+![Executive Summary](dashboard_summary.png.jpeg)
 
 #### Customer Analysis
-![Customer Analysis](dashboard_customers.png)
+![Customer Analysis](dashboard_customers.png.jpeg)
 
 #### Product Performance
-![Product Performance](dashboard_products.png)
+![Product Performance](dashboard_products.png.png)
 
 
 ---
